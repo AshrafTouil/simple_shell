@@ -37,4 +37,3 @@ void  cd_cmd(char **input)
 	}
 	free(cur_pwd);
 }
-
