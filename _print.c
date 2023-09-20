@@ -28,3 +28,4 @@ int _putstring(char *s)
 		_putchar(s[i]);
 	return (i);
 }
+
